@@ -1,5 +1,5 @@
 # Course project or Applied Stochastic Processes
 
-## Project topic: 
+## Project topic: Homework2 
 
-## Team members:
+## Team members:Cai Jiayu   Chen Zekun    Chen Yao    Wu Xiaoyue 
